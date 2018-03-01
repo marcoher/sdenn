@@ -1,3 +1,3 @@
 # sdenn
 
-An (unsuccessful) attempt to use neural networks together with maximum likelihood in order to model the drift and volatility of an SDE. The implementation uses TensorFlow. 
+An attempt to use neural networks together with maximum likelihood estimation in order to model volatility of an SDE as a non-linear function of the sate variables and their past values, given high-frequency time series data. 
